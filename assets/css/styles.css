@@ -328,19 +328,23 @@ img {
 }
 
 .skill_html {
-  width: 95%;
+  width: 90%;
 }
 
 .skill_css {
-  width: 80%;
+  width: 85%;
 }
 
 .skill_js {
-  width: 75%;
+  width: 85%;
 }
 
 .skill_angular {
   width: 85%;
+}
+
+.skill_nodejs {
+  width: 80%;
 }
 
 .skill_java {
